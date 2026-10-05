@@ -1,0 +1,11 @@
+let age = 25;
+let price = 99.99;
+let temperature = -5;
+let Name = "Alice";
+let city = 'London';
+console.log(`age ${age}`);
+console.log(`price ${price}`);
+console.log(`temperature ${temperature}`);
+console.log(`Name ${Name}`);
+console.log(`city ${city}`);
+export {};
